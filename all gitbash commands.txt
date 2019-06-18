@@ -1,0 +1,21 @@
+1.git --version -> shows the git version
+2.git config --global user.name -> set user name
+3.git config --global user.email -> set user email
+4. clear -> clear all data from git window
+5.pwd -> shows the current path
+6.cd ~ -> takes u  to the root or home path
+7.cd .. ->takes u to one directory back
+8.ls -> shows the list of files
+9.git init -> initialize empty git project
+10.ls -la -> shows also the hidden folder or files
+11.git add . -> command git to add all the changes that have been made in the folder or directory
+12.git commit -m ->takes the recent snap of that project changes so we can come back
+13. git remote add origin https://github.com/Sajid16/Thesis_Project.git ->direct the repository
+14.git remote -v -> shows the state that it is ready for fetch and push
+15.git push origin master -> it will push the files
+16.git push origin --delete (branch_name)-> deletes branch
+17.git rm --cached UniversityWebsite_3.zip ->removes a file from github repository
+
+
+
+important link for git bash commands: https://github.com/joshnh/Git-Commands
